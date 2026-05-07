@@ -1,0 +1,40 @@
+Create a modern, clean, and visually appealing anime website called "Otaku Humorr". The website should have a dark anime aesthetic with red and black accents, and a slight meme/fun vibe to match my Instagram page "Otaku_humorr".
+
+Key sections the website must include:
+
+1. **Hero Section**  
+   - Eye-catching header with the website name "Otaku Humorr" and a tagline like "Anime News, Recommendations & Memes". Add a subtle meme touch.
+
+2. **Latest Anime News**  
+   - A section showing the latest anime news with cards. Each card should have a thumbnail, title, short description, and date. Make it look like a news feed.
+
+3. **Top 10 Anime of the Week**  
+   - A ranked list of Top 10 anime with ranking number, anime image, title, rating, and short reason why it's in the top 10.
+
+4. **Masterpiece Anime Section**  
+   - A dedicated section for timeless masterpiece anime (like Attack on Titan, Fullmetal Alchemist, Steins;Gate, etc.). Use bigger cards with high-quality images and short descriptions.
+
+5. **Anime Recommendations**  
+   - A section where users can get recommendations. Include filters like:
+     - Genre (Action, Romance, Thriller, etc.)
+     - Mood (Dark, Feel-good, Mind-bending)
+     - Year
+   - Show recommendation cards with anime poster, title, rating, and short info.
+
+6. **Anime Database / Explore Section**  
+   - A grid of many anime with filters and search bar. Each anime card should show:
+     - High-quality anime image/poster
+     - Title
+     - Rating (out of 10)
+     - Genres
+     - Short description on hover or click
+   - On clicking any anime, it should open a modal or new section with more details (synopsis, episodes, studio, release year, where to watch).
+
+7. **Overall Features**:
+   - Responsive design (mobile friendly)
+   - Smooth animations
+   - Search functionality
+   - Dark theme with good contrast
+   - Footer with links and Instagram handle (@Otaku_humorr)
+
+Use placeholder images from Unsplash or Lorem Picsum for anime posters. Make the overall design look professional yet fun and otaku-friendly.
